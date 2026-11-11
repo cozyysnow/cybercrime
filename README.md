@@ -59,3 +59,4 @@ cybercrime/
    - Start Command: `uvicorn main:app --host 0.0.0.0 --port ${PORT:-8000} --workers 1`
 4. Under **Settings** $\rightarrow$ **Networking**, click **Generate Domain** to get your public API URL.
 5. Verify health: `https://<your-railway-domain>/health`
+
